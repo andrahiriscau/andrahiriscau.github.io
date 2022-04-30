@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Lecture 1](https://github.com/andrahiriscau/andrahiriscau.github.io/blob/86dc50b674749e18b58b9a460db16dad25afee2d/Lecture-1.-What-is-Econometrics-.html)
+[Lecture 1](https://beta.rstudioconnect.com/content/3f2fc0d7-18e0-480f-986b-0f81c3a2ce4c)
 
 
 You can use the [editor on GitHub](https://github.com/andrahiriscau/andrahiriscau.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
