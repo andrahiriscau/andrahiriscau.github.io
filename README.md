@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+[Lecture 1](https://github.com/andrahiriscau/andrahiriscau.github.io/blob/86dc50b674749e18b58b9a460db16dad25afee2d/Lecture-1.-What-is-Econometrics-.html)
+
+
 You can use the [editor on GitHub](https://github.com/andrahiriscau/andrahiriscau.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
